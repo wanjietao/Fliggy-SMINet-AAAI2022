@@ -4,9 +4,10 @@ This is the placeholder for our aaai 2022 paper on cold-start users recommendati
 
 # Dataset
 
-# Citation
-
 https://tianchi.aliyun.com/dataset/dataDetail?dataId=113649
+
+
+# Citation
 
 @inproceedings{tao2022sminet,
   title={SMINet: State-Aware Multi-Aspect Interests Representation Network for Cold-Start Users Recommendation},
